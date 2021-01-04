@@ -61,6 +61,8 @@ Please add yours if you don't see it listed!
 1. [University of Pennsylvania](http://www.cis.upenn.edu/~cis341/current/) - Compilers  (CIS341)
 1. [University of Pennsylvania](http://www.seas.upenn.edu/~cis120/current/) - Programming Languages and Techniques I (CIS120)
 1. University of Virginia - Programming Languages (CS 4610)
+1. [University of California, Santa Barbara](https://github.com/fredfeng/CS162) - Programming Languages (CS162)
+
 
 ### Europe
 
